@@ -1,0 +1,2 @@
+# assets-tojcag
+static assets
